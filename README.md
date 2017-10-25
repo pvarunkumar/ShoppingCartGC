@@ -1,2 +1,0 @@
-# ShoppingCartGC
-Shopping cart project
