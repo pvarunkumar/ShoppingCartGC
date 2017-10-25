@@ -1,0 +1,107 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Scala Console" timestamp="1508856824942">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Main.scala" timestamp="1508938484831">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/Main.scala" timestamp="1508939372170">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/HelloWorld.scala" timestamp="1508338549429">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/printargs.scala" timestamp="1508328085700">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/pa.scala" timestamp="1508338795131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/ShoppingCart.scala" timestamp="1508938475384">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/forargs.scala" timestamp="1508346020765">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/gettingStarted.sc" timestamp="1507934955999">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/helloarg.scala" timestamp="1508327810659">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/echoargs.scala" timestamp="1508328498955">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/ShoppingCart.scala" timestamp="1508939437802">
+        <mark key="[" line="0" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1508938624133">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWYgc2NUb3RhbChzY0l0ZW1zOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpY2VMaXN0IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoIkhlbGxvIFdvcmxkLTIiKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>print(&quot;Hello World&quot;)
+print(&quot;Hello World&quot;)</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cHJpY2VMaXN0IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
