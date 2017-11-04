@@ -21,8 +21,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Retail.scala" timestamp="1509819622626">
-        <mark key="[" line="0" column="6" />
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Retail.scala" timestamp="1509821292719">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/printargs.scala" timestamp="1508328085700">
         <mark key="[" line="4" column="22" />
@@ -74,10 +77,10 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -86,23 +89,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmFjdChuKS8oZmFjdChuLTEpICogZmFjdChyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2NUb3RhbChzY0l0ZW1zOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA9PSAyKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHggPSBuZXcgRGVwYXJ0bWVudChhcmdzKDApLnRvSW50LCBhcmdzKDEpKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoIkhlbGxvIFdvcmxkLTIiKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigibmV3IG9iamVjdCBjcmVhdGUK</text>
       </register>
-      <register name="9" type="4">
-        <text>print(&quot;Hello World&quot;)
-print(&quot;Hello World&quot;)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFsIG4gCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpY2VMaXN0IA==</text>
