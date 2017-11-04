@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509828207242">
-        <mark key="[" line="0" column="14" />
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="/Scala Console" timestamp="1508856824942">
         <mark key="[" line="0" column="0" />
@@ -79,37 +82,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZGl2LnJlc3VsdCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obXVsLnJlc3VsdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIm5vbi1kZWZhdWx0IGNvbnN0cnVjdG9yIikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3ViLnJlc3VsdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludGxuKCJEZXBhcnRtZW50IElkIGlzICIgKyBkZXBhcnRtZW50SWQgKyAiIGFuZCBEZXBhcnRtZW50IE5hbWUgaXMgIiArIGRlcGFydG1lbnROYW1lKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYWRkLnJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocy5yZXN1bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ob2JqRGVwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZi5yZXN1bHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBvYmpEZXAgPSBEZXBhcnRtZW50Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpY2VMaXN0IA==</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
