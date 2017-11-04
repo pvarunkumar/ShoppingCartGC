@@ -36,11 +36,10 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Combination.scala" timestamp="1509811397748">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Combination.scala" timestamp="1509813010462">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/forargs.scala" timestamp="1508346020765">
         <mark key="[" line="0" column="0" />
@@ -69,30 +68,33 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG4gCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIG4gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmFjdChuKS8oZmFjdChuLTEpICogZmFjdChyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgc2NUb3RhbChzY0l0ZW1zOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ZmFjdChuKS8oZmFjdChuLTEpICogZmFjdChyKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc2NUb3RhbChzY0l0ZW1zOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">cHJpbnQoIkhlbGxvIFdvcmxkLTIiKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>print(&quot;Hello World&quot;)
 print(&quot;Hello World&quot;)</text>
       </register>
