@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/election.sc" timestamp="1510279744047">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/election.sc" timestamp="1510282204673">
         <mark key="[" line="6" column="80" />
         <mark key="]" line="6" column="80" />
         <mark key="^" line="6" column="80" />
@@ -15,8 +15,10 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510279388861">
-        <mark key="[" line="14" column="12" />
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510282304949">
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="37" />
       </file>
       <file name="/Scala Console" timestamp="1508856824942">
         <mark key="[" line="0" column="0" />
@@ -97,7 +99,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oZGl2LnJlc3VsdCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>numofconstbystate</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50bG4obXVsLnJlc3VsdCkK</text>
@@ -124,7 +126,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>numofconstbystate</text>
       </register>
     </registers>
     <search>
