@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/election.sc" timestamp="1510279744047">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="80" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="6" column="80" />
+      </file>
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="10" />
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510277944153">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510279388861">
         <mark key="[" line="14" column="12" />
       </file>
       <file name="/Scala Console" timestamp="1508856824942">
