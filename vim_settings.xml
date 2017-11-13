@@ -9,6 +9,9 @@
         <mark key="^" line="5" column="151" />
         <mark key="." line="5" column="151" />
       </file>
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510588656625">
+        <mark key="[" line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="10" />
@@ -50,6 +53,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/pa.scala" timestamp="1508338795131">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1510588417569">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/ShoppingCart.scala" timestamp="1508938475384">
         <mark key="[" line="3" column="6" />
@@ -95,31 +103,31 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGl2LnJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>numofconstbystate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obXVsLnJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZGl2LnJlc3VsdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3ViLnJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4obXVsLnJlc3VsdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYWRkLnJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3ViLnJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocy5yZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYWRkLnJlc3VsdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZi5yZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocy5yZXN1bHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZi5yZXN1bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oZGVwKQo=</text>
