@@ -9,7 +9,7 @@
         <mark key="^" line="5" column="151" />
         <mark key="." line="5" column="151" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510680929825">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510695275375">
         <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
@@ -56,8 +56,8 @@
       </file>
       <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1510588417569">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/ShoppingCart.scala" timestamp="1508938475384">
         <mark key="[" line="3" column="6" />
