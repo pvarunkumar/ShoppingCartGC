@@ -9,7 +9,7 @@
         <mark key="^" line="5" column="151" />
         <mark key="." line="5" column="151" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510695275375">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510697677812">
         <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
@@ -18,7 +18,7 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510669222368">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510696828948">
         <mark key="]" line="115" column="37" />
         <mark key="." line="115" column="37" />
       </file>
@@ -64,6 +64,12 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="21" column="34" />
+      </file>
+      <file name="/sbtShell" timestamp="1510697262846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Combination.scala" timestamp="1509815149585">
         <mark key="[" line="20" column="11" />
