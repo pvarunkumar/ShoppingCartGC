@@ -9,9 +9,6 @@
         <mark key="^" line="5" column="151" />
         <mark key="." line="5" column="151" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510697677812">
-        <mark key="[" line="4" column="17" />
-      </file>
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Fraction.scala" timestamp="1509832803123">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="10" />
@@ -22,17 +19,8 @@
         <mark key="]" line="115" column="37" />
         <mark key="." line="115" column="37" />
       </file>
-      <file name="/Scala Console" timestamp="1508856824942">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Main.scala" timestamp="1508938484831">
         <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/Main.scala" timestamp="1508939372170">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/HelloWorld.scala" timestamp="1508338549429">
         <mark key="[" line="3" column="3" />
@@ -40,10 +28,8 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Retail.scala" timestamp="1510224360312">
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Downloads/SparkTest/src/main/scala/sparkdemo/package.scala" timestamp="1510871423956">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/printargs.scala" timestamp="1508328085700">
         <mark key="[" line="4" column="22" />
@@ -51,19 +37,10 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/pa.scala" timestamp="1508338795131">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1510588417569">
+      <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1510870865360">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/ShoppingCart.scala" timestamp="1508938475384">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="21" column="34" />
       </file>
       <file name="/sbtShell" timestamp="1510697262846">
         <mark key="[" line="0" column="0" />
@@ -71,21 +48,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Combination.scala" timestamp="1509815149585">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/untitled/src/main/scala/Retail.scala" timestamp="1509818490122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/forargs.scala" timestamp="1508346020765">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/gettingStarted.sc" timestamp="1507934955999">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/helloarg.scala" timestamp="1508327810659">
         <mark key="[" line="1" column="0" />
@@ -96,13 +63,52 @@
       <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Fraction.scala" timestamp="1509834860636">
         <mark key="[" line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/SparkTest/build.sbt" timestamp="1510870967246">
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510870984325">
+        <mark key="[" line="4" column="17" />
+      </file>
+      <file name="/Scala Console" timestamp="1508856824942">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/Main.scala" timestamp="1508939372170">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/Retail.scala" timestamp="1510224360312">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/pa.scala" timestamp="1508338795131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/ShoppingCart.scala" timestamp="1508938475384">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/Combination.scala" timestamp="1509815149585">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/gettingStarted.sc" timestamp="1507934955999">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/gettingStarted/src/main/scala/echoargs.scala" timestamp="1508328498955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/ShoppingCart.scala" timestamp="1508940564904">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1509834392740">
+      <file name="/fragment.java" timestamp="1510870549959">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
