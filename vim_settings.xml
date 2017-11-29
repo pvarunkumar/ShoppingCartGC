@@ -61,8 +61,8 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Fraction.scala" timestamp="1509834860636">
-        <mark key="[" line="16" column="37" />
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Fraction.scala" timestamp="1511997717284">
+        <mark key="[" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/SparkTest/build.sbt" timestamp="1510870967246">
         <mark key="[" line="5" column="7" />
@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/ShoppingCart.scala" timestamp="1508940564904">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1511996086525">
+      <file name="/fragment.java" timestamp="1511997731961">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
