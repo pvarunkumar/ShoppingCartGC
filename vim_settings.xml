@@ -15,7 +15,8 @@
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1510696828948">
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/demo/Elections.scala" timestamp="1511996125367">
+        <mark key="[" line="102" column="10" />
         <mark key="]" line="115" column="37" />
         <mark key="." line="115" column="37" />
       </file>
@@ -37,8 +38,8 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1510870865360">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Downloads/Retail/build.sbt" timestamp="1511996266182">
+        <mark key="[" line="4" column="24" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -66,8 +67,8 @@
       <file name="$USER_HOME$/Downloads/SparkTest/build.sbt" timestamp="1510870967246">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1510871446869">
-        <mark key="[" line="4" column="17" />
+      <file name="$USER_HOME$/Downloads/Retail/src/main/scala/sparkdemo/WordCount.scala" timestamp="1511996134251">
+        <mark key="[" line="6" column="11" />
       </file>
       <file name="/Scala Console" timestamp="1508856824942">
         <mark key="[" line="0" column="0" />
@@ -108,7 +109,7 @@
       <file name="$USER_HOME$/Downloads/ShoppingCartGC/src/main/scala/ShoppingCart.scala" timestamp="1508940564904">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1510870549959">
+      <file name="/fragment.java" timestamp="1511996086525">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
